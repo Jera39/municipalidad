@@ -1,0 +1,77 @@
+.container-web {
+    background-image: url('../../../assets/bg/back-login.jpg');
+    background-size: cover;
+    font-family: 'Arial', sans-serif;
+    height: 100vh;
+}
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+.title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+.subtitle-login{
+    color: white;
+    font-size: 20px;
+    padding: 3%;
+}
+.container-login{
+    background-color: #0c3c2798;
+    margin-top: 5%;
+    width: 70%;
+    margin-left: 15%;
+    border-radius: 40px;
+    
+}
+
+.input-box {
+    background-color: #000000;
+    color: #eff32ddb;
+    border-radius: 20px;
+    padding: 3%;
+    margin: 1% 0;
+    width: 90%;
+    border: 3px solid white;
+}
+.link {
+    color: #ffffff;
+    font-size: 1rem;
+    margin: 0% 6%;
+}
+.link:hover {
+    color: #c3c530;
+}
+.login-button {
+    background-color: #fffefabd;
+    color: #000000;
+    border: 5px solid black;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin: 2% 0%;
+}
+.login-button:hover {
+    background-color:#c3c530;
+}
+.logo {
+    width: 150px;
+    height: auto;
+    margin: 20px auto;
+}
+.image {
+    width: 100px;
+    height: auto;
+    margin: 20px auto;
+}
+.title-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
